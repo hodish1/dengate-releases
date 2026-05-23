@@ -1,6 +1,11 @@
 {
-  "version": "0.0.0",
+  "version": "0.1.0",
   "notes": "Initial placeholder — no release yet.",
-  "pub_date": "2026-05-23T00:00:00Z",
-  "platforms": {}
+  "pub_date": "2026-05-23T16:02:33.737Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeVRFWHd1YWhkMFpqWm1qbWd3QXB3RHl1M29uWG9tSUNoQU52ZFdmMFpsNUpwU1E1RndxTFF2ZzNONUlzUmxiWVV2enM4UDlwZUh0OGZJT1pmTnB5c3NtSCtxbjlOSVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NTUyMTQ0CWZpbGU6RGVuZ2F0ZV8wLjEuMF94NjQtc2V0dXAuZXhlCm9paUdHTktKVFByeGlwRHNvT1JWTkMxbEcxQ21NcDNGNmhPK1crUXZ0ajVKUGo5aGxyRE5raVZIVW1TUVA4bWJtbFlMaDlWcDU5bWFabGlTOHpuVENBPT0K",
+      "url": "https://github.com/hodish1/co-op-buddy/releases/download/desktop-v0.1.0/Dengate_0.1.0_x64-setup.exe"
+    }
+  }
 }
