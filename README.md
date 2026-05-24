@@ -27,8 +27,6 @@ The desktop app is currently in **early access**. Grab the latest build for your
 
 | Platform | Installer |
 |---|---|
-| macOS (Apple Silicon) | `.dmg` |
-| macOS (Intel) | `.dmg` |
 | Windows | `.msi` |
 | Linux | `.AppImage` |
 
