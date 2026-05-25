@@ -1,0 +1,35 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "GameSearchFilters",
+  "description": "Schema for the desktop game search filter configuration used before matchmaking.",
+  "type": "object",
+  "required": ["gameSearch"],
+  "properties": {
+    "gameSearch": {
+      "type": "object",
+      "required": ["allowedCategories", "requireAnyOf", "excludedCategories"],
+      "properties": {
+        "description": {
+          "type": "string"
+        },
+        "allowedCategories": {
+          "type": "array",
+          "description": "Full set of Steam categories considered eligible for inclusion in results.",
+          "items": { "type": "string" },
+          "minItems": 1
+        },
+        "requireAnyOf": {
+          "type": "array",
+          "description": "A game must match at least one of these categories to appear in search results.",
+          "items": { "type": "string" },
+          "minItems": 1
+        },
+        "excludedCategories": {
+          "type": "array",
+          "description": "Games that only match these categories (and nothing in requireAnyOf) are excluded.",
+          "items": { "type": "string" }
+        }
+      }
+    }
+  }
+}

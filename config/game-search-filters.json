@@ -1,0 +1,28 @@
+{
+  "$schema": "./game-search-filters.schema.json",
+  "gameSearch": {
+    "description": "Filters applied to the desktop game search before matchmaking. Only games that satisfy at least one entry in 'requireAnyOf' are returned.",
+    "allowedCategories": [
+      "co-op",
+      "online-co-op",
+      "local-co-op",
+      "shared-split-screen-co-op",
+      "multi-player",
+      "online-pvp",
+      "local-pvp",
+      "shared-split-screen-pvp",
+      "co-op-campaign"
+    ],
+    "requireAnyOf": [
+      "co-op",
+      "online-co-op",
+      "local-co-op",
+      "shared-split-screen-co-op",
+      "multi-player",
+      "co-op-campaign"
+    ],
+    "excludedCategories": [
+      "single-player"
+    ]
+  }
+}
