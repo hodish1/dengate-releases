@@ -1,11 +1,11 @@
 {
-  "version": "0.1.9",
+  "version": "0.1.10",
   "notes": "Initial placeholder — no release yet.",
-  "pub_date": "2026-05-26T19:28:42.224Z",
+  "pub_date": "2026-05-28T14:07:44.033Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeVRFWHd1YWhkMFJhc09VaTZlOVcydjlDTjNxRUN0czlMT3ErYXhhQlp1ZzFXdEhYbmVMbmw2MkpBaGhRQWRQY2pQT0F0Z1pvczdLdHZmUUtaMFZKN3R4d0t1clhVWEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5ODIzNzE0CWZpbGU6RGVuZ2F0ZV8wLjEuOV94NjQtc2V0dXAuZXhlCjllWWhNbHIxNjVybi96bncwVk1nQW16a084ZG9HU2QrMnhXdFBYNkVGTDkyZHZMZ1diOXJ3cExiNWZ6N2x5Y1JRdDNZckRWdzlpWW4xb1RXWnc2eUJnPT0K",
-      "url": "https://github.com/hodish1/dengate-releases/releases/download/desktop-v0.1.9/Dengate_0.1.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeVRFWHd1YWhkMFNjSG5aU0xBVms2VW01V0pieWMwY1oyakoyaldWTEVlNW41WmxDQ3BDUDBkYTZSaE03VFJFdVA1TWRnaXQ0MVpJN3BpZ2xSWGZpMTlLMUwvSUVpMUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTc3MjU0CWZpbGU6RGVuZ2F0ZV8wLjEuMTBfeDY0LXNldHVwLmV4ZQo4ejNQUG9JV3dHcTFGdHNocmgxWWVzWkY0RjgwQ2hiVHhxQkdaanFqQnNZTnVDaS9mUVpRYm0wdGw4MXQ2akFpdWwzZFRoQTRYMGprTW1iQjk2L3ZDZz09Cg==",
+      "url": "https://github.com/hodish1/dengate-releases/releases/download/desktop-v0.1.10/Dengate_0.1.10_x64-setup.exe"
     }
   }
 }
