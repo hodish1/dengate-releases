@@ -1,5 +1,7 @@
 # Dengate Desktop
 
+<img width="936" height="791" alt="image" src="https://github.com/user-attachments/assets/3abf187d-1868-4709-b0a4-4acbc3ad3079" />
+
 > **Your den is waiting. Game tonight.**
 
 Finding compatible people to play co-op with is harder than it should be — especially when your friends are offline. Dengate is a social matchmaking platform built for co-op gamers: it pairs you with compatible players, puts you in a voice room together, and gets you into a game.
