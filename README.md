@@ -37,3 +37,5 @@ The desktop app is currently in **early access**. Grab the latest build for your
 ## Support
 
 Questions or issues? Visit **[dengate.xyz](https://dengate.xyz)** or open an issue here.
+
+Join discord: **[Discord](https://disboard.org/server/1445761362054877185)** 
